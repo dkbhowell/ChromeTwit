@@ -1,0 +1,15 @@
+{
+  "name": "dserve",
+  "version": "1.0.0",
+  "description": "My Server",
+  "main": "main.js",
+  "dependencies": {
+    "socket.io": "^1.4.8"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Dustin Howell",
+  "license": "ISC"
+}
